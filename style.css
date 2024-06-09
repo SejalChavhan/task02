@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto',sans-serif;
+    background: rgb(46, 1, 45);
+}
+.container{
+    text-align: center;
+    margin-left: 27%;
+    width:440px;
+    border:2px solid white;
+    padding:55px;
+
+    
+}
+h1{
+    color:white;
+    text-align: center;
+    font-size: 60px;
+}
+.num{
+    display: flex;
+    color:white;
+    margin-left:8px;
+
+}
+h2{
+    font-size:60px;
+    margin-inline: 5px;
+}
+button{
+    width:100px;
+    height: 35px;
+    background-color: rgb(104, 6, 37);
+    color: rgb(233, 230, 230);
+    font-size: 24px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    margin-inline: 8px;
+    cursor: pointer;
+}
+button:hover{
+border:5px solid white;
+}
